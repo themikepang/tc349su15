@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+background: url();	
+}
+ body {
+	width: 761px;
+	margin: 1.5em auto;
+	text-align: center;
+	background-color:white;
+	opacity: 0.6;
+	background-position: center;
+	color: black;
+	font-family: helvetica;
+    }
+	
+
+header {
+	text-align: right;
+	font-family: 'Open Sans', sans-serif;
+	padding: 3px 3px 3px 3px;
+}
+p{
+	width: 500px;	
+	margin:auto;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 2em;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;	
+}
+
+
+h2{
+
+}
+
+li {
+	display: inline;
+}
+
+a{
+	color:gray;
+	text-decoration:none;
+}
+
+a:hover{
+	color: #A0A0A0;
+}
+
+
